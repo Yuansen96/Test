@@ -1,3 +1,5 @@
-import my;
-public String VId(){
+
+import test;
+public Int Id(int id){
+  return id;
 }
